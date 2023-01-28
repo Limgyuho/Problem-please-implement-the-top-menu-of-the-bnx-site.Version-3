@@ -1,0 +1,16 @@
+div {
+  text-align:center;
+  font-weight:bold;
+  font-size:5rem;
+  letter-spacing:-7px;
+}
+
+section {
+  text-align:center;
+  font-weight:bold;
+}
+
+nav {
+  display:inline-block;
+  width:120px;
+}
